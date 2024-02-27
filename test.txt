@@ -1,0 +1,12 @@
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  168G  146G   22G  88% /
+D:                    3.7T  2.6T  1.1T  70% /d
+E:                    1.9T  833G  1.1T  45% /e
+G:                     15G   15G  831M  95% /g
+O:                    2.0G   60K  2.0G   1% /o
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  168G  146G   22G  88% /
+D:                    3.7T  2.6T  1.1T  70% /d
+E:                    1.9T  833G  1.1T  45% /e
+G:                     15G   15G  831M  95% /g
+O:                    2.0G   60K  2.0G   1% /o
